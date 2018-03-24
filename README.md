@@ -64,6 +64,9 @@ output_file = 'd.txt'
 Norbert Bajko / [@norbertbajko](https://github.com/norbertbajko)  
 Peter Nagy    / [@nagypeterjob](https://github.com/nagypeterjob)  
 
+  
+The README.md is based on [this one](https://github.com/sbrodehl/Hashcode2k18)
+
 ## License
 
 This project is licensed under MIT - see the [LICENSE](LICENSE) file for details
