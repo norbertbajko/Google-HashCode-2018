@@ -40,6 +40,12 @@ distance_penalty_multiplier = 3
 ```
 which is multiply the penalty for each job per car based on the distance between them.
 
+You can change the input and output files name with:
+```python
+input_file = './input/d_metropolis.in'
+output_file = 'd.txt'
+```
+
 #### Results (Extended Round)
 
 | Task               | Score         |
