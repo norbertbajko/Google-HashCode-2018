@@ -2,7 +2,7 @@ import copy
 
 unreachable_penalty = -1000000000
 distance_penalty_multiplier = 3
-input_file = 'd_metropolis.in'
+input_file = './input/d_metropolis.in'
 output_file = 'd.txt'
 
 
